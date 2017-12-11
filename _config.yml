@@ -1,2 +1,3 @@
-	name: : Luke Zhang, Software Developer
-	markdown: kramdown
+        name: Luke Zhang, Software Developer
+        markdown: kramdown
+        theme: minima
